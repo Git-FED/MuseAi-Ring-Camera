@@ -1,5 +1,7 @@
 # MuseAi-Ring
 
+<img width="896" height="504" alt="MuseAi-Ring commercial - large GIF" src="https://github.com/user-attachments/assets/25c9864f-7ad8-4870-9e3c-ffd113f5b419" />
+
 > A plain-English, multi-page field guide to what Muse can check through Ring doorbell cameras—and where the limits are.
 
 ![Static HTML](https://img.shields.io/badge/stack-static%20HTML%2FCSS%2FJS-16253d?style=flat-square)
